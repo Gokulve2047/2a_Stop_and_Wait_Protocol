@@ -1,4 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
+
 NAME: INFANCIA FELCY P
 REG NO: 212223040067
 
@@ -41,8 +42,10 @@ while True:
  s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
-CLINET:![image](https://github.com/user-attachments/assets/4c5a2254-321a-49eb-ab0c-a2020277368c)
-SEREVER:![image](https://github.com/user-attachments/assets/e27e35b1-2635-4b11-92b2-3cc42c0dc321)
+CLINET:
+![image](https://github.com/user-attachments/assets/4c5a2254-321a-49eb-ab0c-a2020277368c)
+SEREVER:
+![image](https://github.com/user-attachments/assets/e27e35b1-2635-4b11-92b2-3cc42c0dc321)
 
 
 
